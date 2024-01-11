@@ -1,0 +1,87 @@
+{
+  "categories": {
+    "frontend": {
+      "nombre": "Front End",
+      "section": {
+        "titulo": "Front End",
+        "subtitulo": "Challenge React",
+        "color": "#6BD1FF",
+        "descripcion": "Todos los videos relacionados al desarrollo visual"
+      },
+      "videos": {
+        "video1": {
+          "nombre": "Cuándo usar let, var y const? #AluraMás",
+          "video_url": "https://www.youtube.com/watch?v=PztCEdIJITY&t=1s&pp=ygUbY3VhbmRvIHVzYXIgbGV0IHZhciB5IGNvbnN0",
+          "thumbnail_url": "https://i.ytimg.com/vi/PztCEdIJITY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuXRGCpp6yODDhl8oO2DA9QsvjcA"
+        },
+        "video2": {
+          "nombre": "¿Qué es JavaScript?",
+          "video_url": "https://www.youtube.com/watch?v=GJfOSoaXk4s&pp=ygUYcXXDqSBlcyBqYXZhc2NyaXB0IGFsdXJh",
+          "thumbnail_url": "https://i.ytimg.com/vi/GJfOSoaXk4s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOJl5rXP06Fhd-63FGMvPSf7Mfrg"
+        },
+        "video3": {
+          "nombre": "Equipo Front End #AluraMás",
+          "video_url": "https://www.youtube.com/watch?v=rpvrLaBQwgg&pp=ygUWZXF1aXBvIGZyb250IGVuZCBhbHVyYQ%3D%3D",
+          "thumbnail_url": "https://i.ytimg.com/vi/rpvrLaBQwgg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfpFAH9QXqcbVat7Z_oWkbjnFT6g"
+        },
+        "video4": {
+          "nombre": "¿Qué significa pensar como programador?",
+          "video_url": "https://www.youtube.com/watch?v=ov7vA5HFe6w&t=4s&pp=ygUwcXVlIHNpZ25pZmljYSBwZW5zYXIgY29tbyBwcm9ncmFtYWRvciBqYXZhc2NyaXB0",
+          "thumbnail_url": "https://i.ytimg.com/vi/ov7vA5HFe6w/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2B6wphxS2RA7tQcOphXdyi6WF4g"
+        }
+      }
+    },
+    "backend": {
+      "nombre": "Back End",
+      "section": {
+        "titulo": "Back End",
+        "subtitulo": "Formación Back End de Alura Latam",
+        "color": "#00C86F",
+        "descripcion": "Todos los videos relacionados a la parte funcional y bases de datos de un sitio web"
+      },
+      "videos": {
+        "video1": {
+          "nombre": "Spring Framework",
+          "video_url": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
+          "thumbnail_url": "https://i.ytimg.com/vi/t-iqt1b2qqk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjy-AQhBnJTTm-AJ0IMcn_8YKWrg"
+        },
+        "video2": {
+          "nombre": "¿Qué es SQL y NoSQL?",
+          "video_url": "https://www.youtube.com/watch?v=cLLKVd5CNLc&pp=ygUacXXDqSBlcyBzcWwgeSBubyBzcWwgYWx1cmE%3D",
+          "thumbnail_url": "https://i.ytimg.com/vi/cLLKVd5CNLc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyFVbM4yUyMj22WNRq-uKhpLS8NQ"
+        },
+        "video3": {
+          "nombre": "¿Simplificando tu código en Java: Conoce los enum #AluraMás",
+          "video_url": "https://www.youtube.com/watch?v=EoPvlE85XAQ",
+          "thumbnail_url": "https://i.ytimg.com/vi/EoPvlE85XAQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFbjGz8uhDWikgJo3WcW54ye03Wg"
+        }
+      }
+    },
+    "innovacionygestion": {
+      "nombre": "Innovación y gestión",
+      "section": {
+        "titulo": "Innovación y Gestión",
+        "subtitulo": "Formación Innovación y Gestión de Alura Latam",
+        "color": "#FE8C2A",
+        "descripcion": "Videos sobre innovación y gestión, útiles para administrar empresas."
+      },
+      "videos": {
+        "video1": {
+          "nombre": "¿Qué son las Soft Skills?",
+          "video_url": "https://www.youtube.com/watch?v=vhwspfvI52k",
+          "thumbnail_url": "https://i.ytimg.com/vi/vhwspfvI52k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1wbrXCzeQWVWde43lyuTxyV7yoA"
+        },
+        "video2": {
+          "nombre": "Las 7 Soft Skills más deseadas por las empresas",
+          "video_url": "https://www.youtube.com/watch?v=YhR7Zp8NUzE&pp=ygUkcXXDqSBzb24gbGFzIHNvZnQgc2tpbGxzIGFsdXJhIGxhdGFt",
+          "thumbnail_url": "https://i.ytimg.com/vi/YhR7Zp8NUzE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCW8WXDfotlG3aB2F1Fa5G-XRmmjw"
+        },
+        "video3": {
+          "nombre": "¿Qué son las metodologías ágiles?",
+          "video_url": "https://www.youtube.com/watch?v=6N3OkLCfK-0&pp=ygUfbWV0b2RvbG9naWFzIGFnaWxlcyBhbHVyYSBsYXRhbQ%3D%3D",
+          "thumbnail_url": "https://i.ytimg.com/vi/6N3OkLCfK-0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFZrMohnYPniVfnP4b8Ggzvm7jAQ"
+        }
+      }
+    }
+  }
+}
